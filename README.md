@@ -73,14 +73,6 @@
 
 > 💼 30+ additional projects under NDA or client-owned private repositories
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=malikjimmy-coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malikjimmy-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
 
 ---
 
